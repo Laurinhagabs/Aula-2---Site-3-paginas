@@ -1,0 +1,35 @@
+html,body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom,  rgb(255, 119, 0), orange, rgba(255, 234, 0, 0.888));
+    background-repeat: no-repeat;
+    height: 98%;
+  }
+
+  a {
+    color: #000;
+  }
+
+  .titulo-dados{
+    color: #fff;
+  }
+
+  input[type="text"], 
+  input[type="email"],
+  input[type="senha"],
+  input[type="password"],
+  input[type="tel"] {
+  width: 30%;
+  margin-bottom: 25px;
+  padding: 0px;
+  border-style:solid;
+  border-color: black;
+  border-radius: 5px;
+  font-size: 16px;
+  }
+
+  input[type="checkbox"] {
+    margin-bottom: 30px;
+  }
+
+    
+     
